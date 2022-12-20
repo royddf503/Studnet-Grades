@@ -10,4 +10,4 @@ Next, I used plots and visualizations to explore the data and identify any trend
 
 Finally, I trained a decision tree model to predict student grades based on the collected data. The model was able to accurately predict grades for a large portion of the students, demonstrating the effectiveness of my analysis.
 
-I hope that this analysis will be useful for educators and students looking to improve their grades and achieve academic success. If you have any questions or feedback, please don't hesitate to contact me
+![image](https://user-images.githubusercontent.com/43114148/208621881-2920f344-c156-40b7-82bb-14f3354c7282.png)
